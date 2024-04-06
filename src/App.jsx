@@ -8,8 +8,8 @@ import Frase from "./Components/Frase";
 function App() {
   return (
     <>
-      <Container className="mainPage">
-        <img src={logo} alt="Logo de los Simpsons" className="img-fluid" />
+      <Container className="mainPage text-center">
+        <img src={logo} alt="Logo de los Simpsons" className="imgLogo my-4" />
         <Frase></Frase>
         <Button variant="warning">Obtener Frase</Button>
       </Container>
