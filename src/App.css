@@ -16,3 +16,7 @@ body {
 .imgLogo {
   max-width: 40vw;
 }
+
+.imgCard {
+  max-width: 20vw;
+}

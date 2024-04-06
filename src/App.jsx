@@ -11,7 +11,7 @@ function App() {
       <Container className="mainPage text-center">
         <img src={logo} alt="Logo de los Simpsons" className="imgLogo my-4" />
         <Frase></Frase>
-        <Button variant="warning">Obtener Frase</Button>
+        <Button variant="warning" className="mt-2 mb-5">Obtener Frase</Button>
       </Container>
       <Footer></Footer>
     </>
