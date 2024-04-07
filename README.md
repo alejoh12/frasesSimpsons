@@ -1,8 +1,28 @@
-# React + Vite
+# Frases de Los Simpsons
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto sirve para obtener frases de los simpsons.
 
-Currently, two official plugins are available:
+## Librerias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://es.react.dev/)
+- [ReactBootstrap](https://react-bootstrap.github.io/)
+
+### Pasos para clonar el proyecto
+
+Para ejecutar el proyecto seguí los siguientes pasos:
+
+Puedes clonar el repositorio usando el comando
+
+`git clone url-repositorio`
+
+Y para instalar las dependencies
+
+`npm i`
+
+Luego para ejecutar
+
+`npm run dev`
+
+### Autores
+
+- Facundo Alejo Herrera [GitHub](https://github.com/alejoh12)
